@@ -1,0 +1,5 @@
+implement rag pipeplines with lanchain and train the model on the unt catalog to make it easier for
+students here to register for classes.
+
+using geminis model.
+aslo im not paying for everyones api costs. so custom ai tokens.
